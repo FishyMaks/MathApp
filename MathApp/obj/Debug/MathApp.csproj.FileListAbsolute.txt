@@ -1,0 +1,11 @@
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\bin\Debug\MathApp.exe
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\bin\Debug\MathApp.pdb
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.Form1.resources
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.Properties.Resources.resources
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.csproj.GenerateResource.cache
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.exe
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.pdb
+C:\Users\maxka\Desktop\MSSA\c# excercises\MathApp\obj\Debug\MathApp.Exit.resources
